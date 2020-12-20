@@ -1,5 +1,5 @@
-# projects
-behaviour tracker
+# behaviour tracker
+
 User Inputs:
 Give input either record or visualize
 If user selects record:
